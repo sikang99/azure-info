@@ -4,6 +4,7 @@ MS Azure Cloud Information
 
 
 ### History
+- 2019/12/27 [How to Enable SSL for Azure Application Gateway For Scaling Azure Ant Media Solution](https://antmedia.io/ssl-for-azure-app-gateway-for-scaling-azure-ant-media/)
 - 2019/09/10 [It’s Here! Monitor Microsoft Teams Audio Video Conferencing](https://www.exoprise.com/2019/09/10/monitor-microsoft-teams-audio-video-conferencing/)
 - 2019/09/04 [Perform live streaming using Media Services to create multi-bitrate streams with Azure portal](https://docs.microsoft.com/en-us/azure/media-services/previous/media-services-portal-creating-live-encoder-enabled-channel)
 - 2019/02/10 [How to Use Ant Media Server on Azure Marketplace ?](https://antmedia.io/how-to-use-ant-media-server-on-azure-marketplace/)
@@ -14,6 +15,7 @@ MS Azure Cloud Information
 
 ### Information
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
+- [Live streaming with Azure Media Services v3](https://docs.microsoft.com/en-us/azure/media-services/latest/live-streaming-overview)
 
 
 ### Use Cases
