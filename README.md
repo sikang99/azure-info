@@ -25,3 +25,5 @@ MS Azure Cloud Information
 
 ### Open Source
 - [microsoft/WebRTC-universal-samples](https://github.com/microsoft/WebRTC-universal-samples) - WebRTC samples for the Universal Windows Platform
+- [runtheops/azure-keyvault-env](https://github.com/runtheops/azure-keyvault-env) - Populates env variables from Azure KeyVault
+
